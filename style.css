@@ -5,3 +5,10 @@ h1 {
     color: white;
     text-align: center;
 }
+#tablazat {
+    width: 640px;
+    background-image: url(./hatter.jpg);
+    background-repeat: no-repeat;
+    margin: 0 auto 0 auto;
+
+}

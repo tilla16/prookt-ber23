@@ -10,5 +10,7 @@ h1 {
     background-image: url(./hatter.jpg);
     background-repeat: no-repeat;
     margin: 0 auto 0 auto;
-
+}
+.szoveg {
+    font-size: larger;
 }

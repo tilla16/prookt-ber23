@@ -14,3 +14,12 @@ h1 {
 .szoveg {
     font-size: larger;
 }
+#k1{
+    border: 1px solid black;
+    width: 200px;
+}
+#k2{
+    border: 1px solid black;
+    float: right;
+    margin-right: 30px;
+}

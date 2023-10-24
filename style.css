@@ -8,7 +8,7 @@ h1 {
 #tablazat {
     width: 640px;
     background-image: url(./hatter.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     margin: 0 auto 0 auto;
 }
 .szoveg {
@@ -22,4 +22,7 @@ h1 {
     border: 1px solid black;
     float: right;
     margin-right: 30px;
+}
+#link{
+    color: black;
 }
